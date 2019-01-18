@@ -1,14 +1,11 @@
 # pyConText-carotid-stenosis-detection
 
-This package is maintained by Danielle Mowery at the University of Utah (danielle.mowery@utah.edu). Other active and past developers include:
+This package is maintained by Danielle Mowery at the University of Pennsylvania (dlmowery@pennmedicine.upenn.edu). Other past developers include:
 
 Wendy W. Chapman, Brian Chapman, and Sumithra Velupillai
 
 
-
 This information extraction tool, pyConText, has been adapted by Danielle Mowery from original code written by Brian Chapman for a series of stroke research studies supported by funding from the Veteran Affairs (VA HSR&D Stroke QUERI RRP 12-185), National Heart, Lung, and Blood Institute (NHLBI 1R01HL114563-01A1), National Library of Medicine (NLM R01 LM010964), & National Institute for General Medical Sciences (NIGMS R01GM090187).
-
-
 
 The purpose of this tool is to extract mentions of carotid stenosis, categorize the mentions into 3 classes (no stenosis, insignificant stenosis, or significant stenosis) and, then classify the whole document according to the most significant mention level encoded within the document. Relevant publications can be found below. Please be sure to cite the first two manuscripts when applying this tool for other studies and presenting/publishing your results.
 
