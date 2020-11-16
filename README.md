@@ -9,6 +9,8 @@ This information extraction tool, pyConText, has been adapted by Danielle Mowery
 
 The purpose of this tool is to extract mentions of carotid stenosis, categorize the mentions into 3 classes (no stenosis, insignificant stenosis, or significant stenosis) and, then classify the whole document according to the most significant mention level encoded within the document. Relevant publications can be found below. Please be sure to cite the first two manuscripts when applying this tool for other studies and presenting/publishing your results.
 
+-Keyhani S, Cheng EM, Hoggatt KJ, Austin PC, Madden E, Hebert PL, Halm EA, Naseri A, Johanning JM, Mowery D, Chapman WW, Bravata DM. Comparative Effectiveness of Carotid Endarterectomy vs Initial Medical Therapy in Patients With Asymptomatic Carotid Stenosis. JAMA Neurol. 2020 Sep 1;77(9):1110-1121. doi: 10.1001/jamaneurol.2020.1427. Erratum in: doi: 10.1001/jamaneurol.2020.2784. PMID: 32478802; PMCID: PMC7265126.
+
 -Mowery DL, Chapman BE, Conway M, South BR, Madden E, Keyhani S, Chapman WW. Extracting a Stroke Phenotype Risk Factor from Veteran Health Administration Clinical Reports: An Information Content Analysis. Journal of Biomedical Semantics. 2016. 7:26
 
 -Chapman BE, Lee S, Kang HP, Chapman WW. Document-level classification of CT pulmonary angiography reports based on an extension of the ConText algorithm. J Biomed Inform. 2011 Oct;44(5):728-37
